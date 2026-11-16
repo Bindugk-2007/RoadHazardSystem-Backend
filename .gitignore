@@ -1,0 +1,8 @@
+target/
+data/
+uploads/
+*.mv.db
+*.trace.db
+.idea/
+.vscode/
+*.class
